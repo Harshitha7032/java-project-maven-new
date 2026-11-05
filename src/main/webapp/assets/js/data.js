@@ -15,7 +15,7 @@ let movies = [
     image: "assets/img/slider 4.png",
   },
   {
-    name: "loki",
+    name: "lokki",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
     image: "assets/img/slider 1.png",
   },
